@@ -52,12 +52,13 @@ also reservations can be scene there too.
 ![Home](https://github.com/iamluckycheema/little_lemon/blob/main/little_lemon/screenshots/home.png)
 ![About](https://github.com/iamluckycheema/little_lemon/blob/main/little_lemon/screenshots/about.png)
 ![Menu](https://github.com/iamluckycheema/little_lemon/blob/main/little_lemon/screenshots/menu.png)
-![Reservation](https://github.com/iamluckycheema/little_lemon/blob/main/little_lemon/screenshots/reservation.png)
 ![Menu Item](https://github.com/iamluckycheema/little_lemon/blob/main/little_lemon/screenshots/menu_item.png)
+![Reservation](https://github.com/iamluckycheema/little_lemon/blob/main/little_lemon/screenshots/reservation.png)
 
 
 ## Features
 
+- Responsive design
 - Booking online
 - Menu & Menu details
 - Home Page/Landing Page
