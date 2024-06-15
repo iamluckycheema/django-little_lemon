@@ -41,7 +41,7 @@ for menu add your produts using the 'django admin panel'
 ```bash
   python manage.py createsuperuser
 ```
-then run server and go to add enties in menu model.
+then run server and use admin panel to add enties in menu model. *also you need to place the image of the product in menu_items folder in static files with same name as the product name you are entring.
 ```bash
   172.0.0.1:8000/admin
 ```
